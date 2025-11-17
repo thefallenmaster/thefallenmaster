@@ -32,11 +32,10 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thefallenmaster&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-<p>   
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thefallenmaster&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />  
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefallenmaster&layout=compact&theme=react" alt="GitHub top-langs Card" />
 </p>
-</p>
+
 
  **<h3 align="left">Support Me</h3>**
 
