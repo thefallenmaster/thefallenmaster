@@ -13,8 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/thefallenmaster" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 16px"></a> <br><br>
-<a href="https://www.reddit.com/user/Ecstatic_Scallion573/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 16px"></a></p>
+<p align="left"><a href="https://github.com/thefallenmaster" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 16px"></a> <br> <a href="https://www.reddit.com/user/Ecstatic_Scallion573/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 16px"></a></p>
 
  <h3 align="left">🎯 Passionate student and aspiring full-stack developer, skilled in Java, Python, HTML, and MySQL. Focused on building creative, efficient, and user-friendly projects while continuously exploring new technologies and sharpening coding skills for real-world impact.
 </h3>
