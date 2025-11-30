@@ -31,10 +31,11 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thefallenmaster&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefallenmaster&layout=compact&theme=react" alt="GitHub top-langs Card" />
-</p>
+<div align="center">
+  <a href="https://github.com/juletopi/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thefallenmaster&bg_color=0e1118&hide_border=true&custom_title=TheFallenMaster%27s%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast%22%20width=%22800%22%20alt=%22JuletopiContribution-graph" width="800" alt="TheFallenMasterContribution-graph" title="Contribution Graph">
+  </a>
+</div>
 
 
  **<h3 align="left">Support Me</h3>**
